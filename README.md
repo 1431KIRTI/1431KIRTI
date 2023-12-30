@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kirti Porwal.
-- 👀 I’m interested in coding.
-- 📫 Reach me through github.
-- 💕 Wants to become a devloper.
-- 😊 Learning always!
+- Hi, I’m Kirti Porwal.
+- I’m interested in coding.
+- Reach me through github or kirtu1431@gmail.com.
+- Wants to become a developer.
+- Learning always!
